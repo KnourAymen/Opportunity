@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Opportunity</string>
+    <string name="big_title">Opportunity</string>
+    <string name="sub_title">My opportunity is my new currency</string>
+    <string name="intro_title">Title</string>
+    <string name="intro_description">Description</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+
+    <!-- #####################################################################################################################################-->
+
+    <string name="app_goal_title">Application Goal</string>
+    <string name="app_goal_description">This application helps individuals find training or employment opportunities with various companies. Its user-friendly interface and resources for job seekers make it easy to find job and training that align with career goals.</string>
+
+    <string name="self_confidence_title">Self-confidence</string>
+    <string name="self_confidence_description">Self-confidence is key to exploiting opportunities. It allows individuals to believe in their abilities, take risks and pursue new ventures with conviction, ultimately leading to greater personal and professional growth.</string>
+
+    <string name="your_dream_title">Your Dream</string>
+    <string name="your_dream_description">Achieving one\'s dreams requires seizing opportunities. By being open to new experiences and taking risks, individuals can turn their dreams into reality and fulfill their aspirations.</string>
+
+    <string name="remember_this_title">Remember This...</string>
+    <string name="remember_this_description">"Opportunities are usually disguised as hard work, so most people don't recognize them." - Ann Landers.</string>
+
+    <!-- #####################################################################################################################################-->
+
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email *</string>
+    <string name="password">Password *</string>
+    <string name="rewrite_password">Rewrite password *</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="birth_day">Birth Day *</string>
+    <string name="address">Address *</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="select_your_specialty">Select your specialty *</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log In</string>
+    <string name="submit">Submit</string>
+    <string name="select_file">Select File *</string>
+    <string name="your_dreams">Your Dreams</string>
+    <string name="ofppt_disadvantages">OFPPT Disadvantages</string>
+    <string name="ofppt_adnantages">OFPPT Adnantages</string>
+    <string name="trainee_space">Trainee Space</string>
+
+    <string name="about_paragraph">Opportunity app is an application developed by Aymen Knour, an intern at ISTA Hay Riad. This application is divided into two distinct sections. The first section allows trainees to send their CV to the administration in order to find internship or job opportunities. The second section is dedicated to the administration and allows them to view all the information entered by the trainees, including their CV.
+
+\n\nWe would like to express our sincere thanks to the security staff, the administration, the trainers for their valuable help and support throughout the development of this application.
+
+\n\nIf you would like to contact the developer of this application, you can use the following email address: [knouraymen@gmail.com] or the phone number: [0766142334]. We would be happy to answer your questions and assist you in any way possible.</string>
+</resources>
